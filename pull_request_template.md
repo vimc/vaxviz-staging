@@ -1,0 +1,1 @@
+If you are reading this, something has gone wrong. This repository should only be pushed to by robots. See [the main README]([url](https://github.com/vimc/vaxviz-staging/blob/main/README.md)) for further information.
