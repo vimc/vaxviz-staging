@@ -9,4 +9,4 @@ this repo, which in turn will trigger a deploy to the staging instance: https://
 
 The production instance of vaxviz is is here: https://vaxviz.vaccineimpact.org/
 
-Updates to production are triggered by releases of the vaxviz repositoruy
+Updates to production are triggered by releases of the vaxviz repository.
